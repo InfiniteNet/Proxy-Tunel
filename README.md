@@ -1,4 +1,4 @@
-# Dt Proxy Free With menu
+# Proxy  With menu
 ```
-bash <(curl https://raw.githubusercontent.com/endblack/DtWithMAIN/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/InfiniteNet/Proxy-Tunel/main/install.sh)
 ```
